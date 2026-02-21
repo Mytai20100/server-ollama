@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/version-v0.1-blue" alt="version"/>
   <img src="https://img.shields.io/badge/language-Java-orange" alt="java"/>
   <img src="https://img.shields.io/badge/ollama-v0.16.3-black" alt="ollama"/>
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="license"/>
+  <img src="https://img.shields.io/badge/license-BSD3-green" alt="license"/>
 </p>
 
 > Run Ollama where Docker cannot.
