@@ -32,9 +32,9 @@ All standard Ollama API requests are forwarded transparently via streaming. The 
 ## Dependencies
 
 | Library | Version | Bundled |
-|---|---|---|
-| [Ollama](https://github.com/ollama/ollama) | v0.16.3 | yes (tar inside jar) |
-| [Gson](https://github.com/google/gson) | 2.13.1 | yes (jar inside jar) |
+|---|---------|---|
+| [Ollama](https://github.com/ollama/ollama) | v0.30.0 | yes (tar inside jar) |
+| [Gson](https://github.com/google/gson) | 2.13.1  | yes (jar inside jar) |
 
 No other external libraries. Uses only Java standard library (`com.sun.net.httpserver`).
 
