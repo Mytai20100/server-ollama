@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-v0.1-blue" alt="version"/>
+  <img src="https://img.shields.io/badge/version-v0.2-blue" alt="version"/>
   <img src="https://img.shields.io/badge/language-Java-orange" alt="java"/>
   <img src="https://img.shields.io/badge/ollama-v0.30.0-black" alt="ollama"/>
   <img src="https://img.shields.io/badge/license-BSD3-green" alt="license"/>
